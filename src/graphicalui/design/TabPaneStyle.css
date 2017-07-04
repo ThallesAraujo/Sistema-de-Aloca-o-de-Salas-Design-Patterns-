@@ -1,0 +1,117 @@
+.tab-header-background {
+    -fx-background-color: #42c6a5;
+	-fx-border-color: transparent transparent #ffffff transparent;
+}
+.tab-pane{
+    -fx-background-color: #42c6a5;
+}
+.tab{
+    -fx-background-color: transparent;
+    -fx-font: 13px "Segoe UI Semibold";
+}
+
+.tab-pane .tab:selected
+{
+    -fx-background-color: #ffffff;
+	-fx-inner-border: #ffffff;
+    -fx-body-color: #ffffff;
+	-fx-border-color: #ffffff transparent #ffffff #ffffff;
+	-fx-border-radius: 10 10 0 0;
+	-fx-focus-color: transparent;
+	-fx-faint-focus-color: transparent;
+	-fx-border-width: 0px;
+	-fx-border-height: 0px;
+}
+
+.tab .tab-label { 
+    -fx-alignment: CENTER;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 13px;
+}
+.tab:focus{
+    -fx-focus-color: transparent; 
+	-fx-faint-focus-color: transparent;
+    -fx-inner-border: #ffffff;
+    -fx-body-color: #ffffff;
+	-fx-border-radius: 10 10 0 0;
+	-fx-border-color: #ffffff #ffffff #ffffff #ffffff;
+}
+.tab:hover .tab-label{
+	-fx-text-fill:#227460;
+}
+.tab:selected .tab-label { 
+    -fx-alignment: CENTER;
+    -fx-text-fill: #42c6a5;
+    -fx-inner-border: #ffffff;
+    -fx-body-color: #ffffff;
+}
+.tool-bar:horizontal {
+	-fx-background-color: #ffffff;
+	-fx-border-color: #ffffff #ffffff #e1e1e1 #ffffff;
+}
+.button {
+-fx-background-color: #ffffff;
+-fx-border-color:transparent transparent transparent transparent;
+}
+.button:hover{
+	-fx-background-color: #a0ddce;
+}
+.button:selected{
+	-fx-background-color: #42c6a5;
+	-fx-border-width: 1px;
+	-fx-border-height: 1px;
+	-fx-border-color: #ffffff #ffffff #ffffff;
+}
+
+.table-view {
+    -fx-base: white;
+    -fx-control-inner-background: white;
+    -fx-background-color: transparent;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #a0ddce;
+}
+
+.table-view .header{
+    -fx-background-color: #a0ddce;
+}
+
+.table-view .column-header{
+	-fx-background-color: #a0ddce;
+}
+
+.table-view .filler {
+	-fx-background-color: #a0ddce;
+}
+
+.table-view:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: #42c6a5;
+	-fx-table-cell-border-color: #42c6a5;
+}
+
+.menu-button {
+ -fx-background-color: #ffffff;
+ -fx-border-color: transparent transparent transparent transparent;
+}
+.menu-button:hover{
+	-fx-background-color: #a0ddce;
+}
+.menu-item{
+	-fx-background-color: #ffffff;
+}
+.menu-item .label{
+	-fx-text-fill: #000000;
+}
+.menu-item:hover{
+	-fx-background-color: #a0ddce;
+}
+.menu-item:selected{
+	-fx-background-color: #42c6a5;
+}
+.menu-button:selected{
+	-fx-background-color: #42c6a5;
+	-fx-border-color: #2e997f #2e997f #2e997f #2e997f;
+}

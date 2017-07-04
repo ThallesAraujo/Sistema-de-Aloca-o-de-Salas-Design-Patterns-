@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 14 13:18:39 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instância a816c00e-0154-1591-3790-000000a5c760
+no diretório de banco de dados E:\Workspace - Windows 10\Design Patterns\Alocador\derby 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_77-b03
+user.dir=E:\Workspace - Windows 10\Design Patterns\Alocador
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''

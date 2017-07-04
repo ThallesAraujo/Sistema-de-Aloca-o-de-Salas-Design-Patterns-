@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derby.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyclient.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_cs.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_de_DE.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_es.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_fr.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_hu.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_it.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_ja_JP.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_ko_KR.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_pl.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_pt_BR.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_ru.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_zh_CN.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyLocale_zh_TW.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbynet.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyoptionaltools.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbyrun.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/derbytools.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/Undecorator.jar"/>
+	<classpathentry kind="lib" path="F:/Design Patterns/Alocador/tools/easyaccept.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
