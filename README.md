@@ -15,11 +15,11 @@ Objetivos do projeto:
 <h3>
 Padrões de projeto aplicados:
 </h3>
-- Singleton - Obtenção de conexão com o banco de dados
-- Strategy - Classes de printer para interface de linha de comando e janelas de adição de salas
-- Template Method - Utilizado para replicação de design nas janelas de adição de salas
-- Command - Log de Eventos
-- Composite - Interface gráfica
+- Singleton: Obtenção de conexão com o banco de dados
+- Strategy: Classes de printer para interface de linha de comando e janelas de adição de salas
+- Template Method: Utilizado para replicação de design nas janelas de adição de salas
+- Command: Log de Eventos
+- Composite: Interface gráfica
 
 <h3>
 Semipadrões aplicados:
