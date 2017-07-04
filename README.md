@@ -8,6 +8,7 @@ Sistema de Alocação de Salas - Professor Msc. Mirko Barbosa Perkusich
 <h3>
 Objetivos do projeto: 
 </h3>
+
 - incluir o maior número de padrões de projeto GoF possíveis no sistema, de maneira justificável e com a finalidade de aumentar a expansibilidade e manutenabilidade do código
 
 - Implementar os requisitos de sistema, conforme descritos em https://sites.google.com/site/mperkusich/disciplinas/padroes-de-projeto-2015-1/projeto-da-disciplina
