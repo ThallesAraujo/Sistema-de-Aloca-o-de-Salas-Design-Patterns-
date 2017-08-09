@@ -1,5 +1,5 @@
 <h2>
-Sistema de Alocação de Salas - Professor Msc. Mirko Barbosa Perkusich
+Sistema de Alocação de Salas - Professor MSc. Mirko Barbosa Perkusich
 </h2>
 <p align="center">
   <img src="https://github.com/ThallesAraujo/Sistema-de-Aloca-o-de-Salas-Design-Patterns-/blob/master/Main%20Window.PNG"/>
